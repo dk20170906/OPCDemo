@@ -1,0 +1,6 @@
+E:\dk\OPCDemo\OPCDemom\bin\Debug\netcoreapp2.1\OPCDemom.deps.json
+E:\dk\OPCDemo\OPCDemom\bin\Debug\netcoreapp2.1\OPCDemom.dll
+E:\dk\OPCDemo\OPCDemom\obj\Debug\netcoreapp2.1\OPCDemom.csprojAssemblyReference.cache
+E:\dk\OPCDemo\OPCDemom\obj\Debug\netcoreapp2.1\OPCDemom.csproj.CoreCompileInputs.cache
+E:\dk\OPCDemo\OPCDemom\obj\Debug\netcoreapp2.1\OPCDemom.AssemblyInfoInputs.cache
+E:\dk\OPCDemo\OPCDemom\obj\Debug\netcoreapp2.1\OPCDemom.AssemblyInfo.cs

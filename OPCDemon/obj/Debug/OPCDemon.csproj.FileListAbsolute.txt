@@ -1,0 +1,9 @@
+E:\dk\OPCDemo\OPCDemon\bin\Debug\OPCDemon.exe.config
+E:\dk\OPCDemo\OPCDemon\bin\Debug\OPCDemon.exe
+E:\dk\OPCDemo\OPCDemon\bin\Debug\OPCDemon.pdb
+E:\dk\OPCDemo\OPCDemon\obj\Debug\OPCDemon.csprojAssemblyReference.cache
+E:\dk\OPCDemo\OPCDemon\obj\Debug\OPCDemon.Properties.Resources.resources
+E:\dk\OPCDemo\OPCDemon\obj\Debug\OPCDemon.csproj.GenerateResource.cache
+E:\dk\OPCDemo\OPCDemon\obj\Debug\OPCDemon.csproj.CoreCompileInputs.cache
+E:\dk\OPCDemo\OPCDemon\obj\Debug\OPCDemon.exe
+E:\dk\OPCDemo\OPCDemon\obj\Debug\OPCDemon.pdb

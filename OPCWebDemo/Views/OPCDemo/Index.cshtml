@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+
+<input id="Button1" type="button" value="button" onclick="testWebOPC();" />
+
+<div id="testdivtest"></div>
+
+@section Scripts{
+    <script>
+        function testWebOPC() {
+            $.ajax({
+                type: 'get',
+                url: '../OPCDemo/OPCWebTest',
+                data: {
+                    opcIp:'192.168.3.121'
+                },
+                success: function (result) {
+                    if (result.success) {
+                        var htmlStr = "";
+                        $.each(result.fVal, function (i, item) {
+                            htmlStr += '<div>' + item + '</div>';
+                        })
+                        $('#testdivtest').append(htmlStr);
+                    }
+                },
+                error: function (result) {}
+            })
+        }
+
+
+
+
+
+    </script>
+    
+    
+    }

@@ -1,0 +1,10 @@
+E:\dk\OPCDemo\OPCDemo\obj\Debug\OPCDemo.Form1.resources
+E:\dk\OPCDemo\OPCDemo\obj\Debug\OPCDemo.Properties.Resources.resources
+E:\dk\OPCDemo\OPCDemo\obj\Debug\OPCDemo.csproj.GenerateResource.cache
+E:\dk\OPCDemo\OPCDemo\obj\Debug\OPCDemo.csproj.CoreCompileInputs.cache
+E:\dk\OPCDemo\OPCDemo\bin\Debug\Dll\kingvewcliend.dll
+E:\dk\OPCDemo\OPCDemo\bin\Debug\OPCDemo.exe.config
+E:\dk\OPCDemo\OPCDemo\bin\Debug\OPCDemo.exe
+E:\dk\OPCDemo\OPCDemo\bin\Debug\OPCDemo.pdb
+E:\dk\OPCDemo\OPCDemo\obj\Debug\OPCDemo.exe
+E:\dk\OPCDemo\OPCDemo\obj\Debug\OPCDemo.pdb
